@@ -18,3 +18,5 @@ The data analysed was from gotten a project called the Capstone Project  That is
 - The total revenue per product.
 - The monthly sales totals for each current year.
 - The top 5 customers by total purchase amount to name a few. 
+
+Microsoft PowerBI [Download Here](https://www.microsoft.com/en-us/power-USplatform/products/power-bi) was used to visualize data imported from th Microsfot Excel and SQL (Structured Query Langagee)
