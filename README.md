@@ -3,9 +3,10 @@
 This is where i documented the process of analyzing the provided unclean data for my final project with the Incubator Hub, using analytic tools like Microsoft Excel, SQL and Microsoft Power BI.  
 
 ### DATA SOURCES
-The data analysed was from gotten a file called the Capstone Project. The project consists of two source datasets; sales data and customer data.
+The data analysed was from gotten a file called the LITA Capstone Project. The project consists of two source datasets; sales data and customer data.
 
 ### ANALYTIC TOOLS USED
+## SALES DATA
 - Microsoft Excel [Download Here](https://www.microsoft.com) was used to:
 - Perform an initial exploration of the provided data. 
 - Using pivot tables, to summarize total sales by product, region, and month.
@@ -21,3 +22,8 @@ The data analysed was from gotten a file called the Capstone Project. The projec
 
 Microsoft PowerBI [Download Here](https://www.microsoft.com/en-us/power-USplatform/products/power-bi) was used to visualize data imported from Microsfot Excel and SQL (Structured Query Language). With PowerBI, I was able to show a summary of relevant data like total revenue per product, region and the most purchased product.
 
+## CUSTOMER DATA
+- I used Microsoft Excel [Download Here](https://www.microsoft.com) to:
+- Analyze customer data using pivot tables to find subscription patterns.
+- Calculate the average subscription duration and identify the most popular subscription types
+- 
