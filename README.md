@@ -21,6 +21,3 @@ The data analysed was from gotten a file called the LITA Capstone Project. The p
 - The top 5 customers by total purchase amount to name a few. 
 
 Microsoft PowerBI [Download Here](https://www.microsoft.com/en-us/power-USplatform/products/power-bi) was used to visualize data imported from Microsfot Excel and SQL (Structured Query Language). With PowerBI, I was able to show a summary of relevant data like total revenue per product, region and the most purchased product.
-
-
-- 
