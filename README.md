@@ -22,8 +22,5 @@ The data analysed was from gotten a file called the LITA Capstone Project. The p
 
 Microsoft PowerBI [Download Here](https://www.microsoft.com/en-us/power-USplatform/products/power-bi) was used to visualize data imported from Microsfot Excel and SQL (Structured Query Language). With PowerBI, I was able to show a summary of relevant data like total revenue per product, region and the most purchased product.
 
-## CUSTOMER DATA
-- I used Microsoft Excel [Download Here](https://www.microsoft.com) to:
-- Analyze customer data using pivot tables to find subscription patterns.
-- Calculate the average subscription duration and identify the most popular subscription types
+
 - 
